@@ -64,7 +64,7 @@ Salida esperada (impresa):
 
 ---
 
-### 02. intercalarColas(Queue<Integer> cola1, Queue<Integer> cola2) {
+### 02. intercalarColas(Queue<Integer> cola1, Queue<Integer> cola2) 
 -  Intercalar dos colas
 
 > **Concepto:**  
